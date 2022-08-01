@@ -352,7 +352,8 @@ set clipboard+=unnamed
 set nobackup
 set noswapfile
 set laststatus=2
-set fileencoding=utf-8
+"set fileencoding=utf-8
+set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
 set encoding=utf-8
 set t_Co=256
 set vb t_vb=        " no bell
